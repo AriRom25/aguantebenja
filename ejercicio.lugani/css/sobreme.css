@@ -1,0 +1,48 @@
+
+body {
+    background-image: url(/img/bingo.sm.jpg) ;
+    background-repeat: no-repeat;  
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: 1390px 700px;
+  }
+/* tamaño img*/
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
+img{
+  transform: rotate(-90deg);
+}
+
+img{
+    border-image-outset : 0
+}
+
+body {
+    color:rgb(0, 0, 0);
+}
+/* fuente del texto */
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+/* tamaño del texto*/
+body {
+    font-size: 25px;
+  }
+
+  body{
+    font-weight:130
+  }
+
+ol {
+    color: black;
+}
+
+div {
+  text-align: center;
+}

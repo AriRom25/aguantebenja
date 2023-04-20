@@ -1,0 +1,33 @@
+
+body {
+    background-image: url(/img/educacion1.jpg) ;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 1400px 800px;
+}
+
+
+body {
+    color:rgb(0, 0, 0);
+}
+/* fuente del texto */
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+/* tamaño del texto*/
+body {
+    font-size: 25px;
+  }
+
+  body{
+    font-weight:130
+  }
+
+ol {
+    color: black;
+}
+
+div {
+  text-align: center;
+}
